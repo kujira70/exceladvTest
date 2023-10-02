@@ -1,0 +1,9 @@
+index,Paragraph ID,Scene ID,Scene Prompt Character ID,Scene Prompt Text,User Choice Prompt 1,Result Text Character ID,Result Text Choice 1,Next Paragraph ID Choice 1,User Choice Prompt 2,Result Text Choice 2,Next Paragraph ID Choice 2,User Choice Prompt 3,Result Text Choice 3,Next Paragraph ID Choice 3,User Choice Prompt 4,Result Text Choice 4,Next Paragraph ID Choice 4
+1,Intro,1,Naration,You work for a private detective company.  You don't like the assignment though.,Continue,Naration,"You have been following a guy, spent two hours in an old van with your buddy.",,,,,,,,,,
+2,Intro,2,You,Do we really have to go?,Continue,Naration,Your voice sounded idly in the old van.,[01 next],,,,,,,,,
+3,Intro,3,Mike,"YOU have to go.  Not me. You know why. Just do it boy.  This is our buisiness.  She pays us, alright?",Continue,Naration,You heard Mike but said nothing.  You knew Mike was right.,[01 next],,,,,,,,,
+4,Intro,4,You,You said:,I am not sure about me being boy anymore・c,Mike,Come on Yuta・cwell Erika.  Its been a while.,[02 previous],Okay then・cyou break in moment I call you okay?,Learn to trust me boy... Well... girl.,[01 next],,,,,,
+5,Intro,5,You,Slowly you opened the van door and said:,YOU don・ft remember I am ・c a girl now.,Mike,Right・c you are the cutest girl I know acutually.,[01 next],,,,,,,,,
+6,Intro,6,You,You said:,NEVER call me cute again got that?,Mike,Well you are the only girl I personally know really...just go now.  Keep your phone ready.  Come back soon.,First Entrance to caf?,,,,,,,,,
+7,First Entrance to caf?,1,Naration,"Reluctantly, you entered an old building, the neon sign at the front sais, ""Moe Moe Cats""",Enter the cafe,Naration,You decide to explore the premise.,[01 next],,,,,,,,,
+8,First Entrance to caf?,2,Naration,The interior of the building was cosy.,Look around,Naration,A maid is greeting you.,[01 next],,,,,,,,,

@@ -1,0 +1,8 @@
+msgport.js:70 {"notify":"init_tab"}
+gameBrowser.js:19 Uncaught TypeError: Failed to execute 'readAsArrayBuffer' on 'FileReader': parameter 1 is not of type 'Blob'.
+    at GameParser.readExcel (gameBrowser.js:19:16)
+    at new GameParser (gameBrowser.js:7:14)
+    at gameBrowser.js:86:14
+readExcel @ gameBrowser.js:19
+GameParser @ gameBrowser.js:7
+(anonymous) @ gameBrowser.js:86
